@@ -3,7 +3,8 @@
 #### I am a Programmer, Competitive Coder & Developer.  
 
 I am Software Developer who is always excited to learn new things & explore them. 
-![I am a Programmer, Competitive Coder & Developer.  ](https://github.com/Git-Codder/Git-Codder/blob/main/github.jpg)
+<!-- ![I am a Programmer, Competitive Coder & Developer.  ](https://github.com/Git-Codder/Git-Codder/blob/main/github.jpg?s=200) -->
+<img src="https://github.com/Git-Codder/Git-Codder/blob/main/github.jpg" width="60%" height="250px">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Git-Codder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-kumawat-48152a206//)  
 
