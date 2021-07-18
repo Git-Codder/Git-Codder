@@ -4,7 +4,13 @@
 
 I am Software Developer who is always excited to learn new things & explore them. 
 <!-- ![I am a Programmer, Competitive Coder & Developer.  ](https://github.com/Git-Codder/Git-Codder/blob/main/github.jpg?s=200) -->
-<img src="https://github.com/Git-Codder/Git-Codder/blob/main/github.jpg" width="60%" height="250px">
+<a href="https://github.com/Git-Codder/Git-Codder">
+  <img align="center" src="https://github.com/Git-Codder/Git-Codder/blob/main/github.jpg&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Git-Codder/Git-Codder">
+  <img align="center" src="https://github.com/Git-Codder/Git-Codder/blob/main/github_2.jpg&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Git-Codder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-kumawat-48152a206//)  
 
