@@ -4,12 +4,12 @@
 
 I am Software Developer who is always excited to learn new things & explore them. 
 <!-- ![I am a Programmer, Competitive Coder & Developer.  ](https://github.com/Git-Codder/Git-Codder/blob/main/github.jpg?s=200) -->
-<a href="https://github.com/Git-Codder/Git-Codder">
+<!-- <a href="https://github.com/Git-Codder/Git-Codder">
 <img src="https://github.com/Git-Codder/Git-Codder/blob/main/github.jpg" width="40%" height="210px" style="border-radius:50%" >
 </a>
 <a href="https://github.com/Git-Codder/Git-Codder">
   <img src="https://github.com/Git-Codder/Git-Codder/blob/main/github_3.jpg" width="40%" height="210px" style="border-radius:50%" >
-</a>
+</a> -->
 
 
 [<img src='https://github.com/Git-Codder/Git-Codder/blob/main/github_github.png' alt='github' height='30' style="border-radius:50%" >](https://github.com/Git-Codder)  [<img src='https://github.com/Git-Codder/Git-Codder/blob/main/github_linkdin.png' alt='linkedin' height='30' style="border-radius:50%" >](https://www.linkedin.com/in/aditya-kumawat-48152a206/)  
