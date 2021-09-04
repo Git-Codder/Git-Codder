@@ -31,7 +31,7 @@ I am Software Developer who is always excited to learn new things & explore them
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Git-Codder)   -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Git-Codder)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Git-Codder)   -->
 
-![Profile views](https://gpvc.arturio.dev/Git-Codder)  
+<!-- ![Profile views](https://gpvc.arturio.dev/Git-Codder)   -->
 
