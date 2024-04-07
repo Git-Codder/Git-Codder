@@ -14,7 +14,7 @@ I am Software Developer who is always excited to learn new things & explore them
 
 <!-- [<img src='https://github.com/Git-Codder/Git-Codder/blob/main/github_github.png' alt='github' height='30' style="border-radius:50%" >](https://github.com/Git-Codder)    -->
 <a href='https://www.linkedin.com/in/aditya-kumawat-48152a206/'>
-  <img src='https://github.com/Git-Codder/Git-Codder/blob/main/github_linkdin.png' alt='linkedin' height='30' style="border-radius: 20;">
+  <img src='https://github.com/Git-Codder/Git-Codder/blob/main/github_linkdin.png' alt='linkedin' height='30' style="border-radius: 80;">
 </a>
 
 <!-- <a href="https://github.com/Git-Codder/Git-Codder">
