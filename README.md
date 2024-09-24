@@ -1,8 +1,8 @@
 
-### Hi there 👋, my name is Aditya Kumawat
-#### I am a Programmer, Competitive Coder & Developer.  
+### Hi there 👋, This is Aditya Kumawat
+#### I am Software Developer who is always excited to learn new things & explore them.  
 
-I am Software Developer who is always excited to learn new things & explore them. 
+So Let's solve some real-world problem. 
 <!-- ![I am a Programmer, Competitive Coder & Developer.  ](https://github.com/Git-Codder/Git-Codder/blob/main/github.jpg?s=200) -->
 <!-- <a href="https://github.com/Git-Codder/Git-Codder">
 <!-- <img src="https://github.com/Git-Codder/Git-Codder/blob/main/github.jpg" width="40%" height="210px" style="border-radius:50%" >
