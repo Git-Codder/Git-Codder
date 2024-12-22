@@ -13,9 +13,9 @@ So Let's solve some real-world problem.
 
 
 <!-- [<img src='https://github.com/Git-Codder/Git-Codder/blob/main/github_github.png' alt='github' height='30' style="border-radius:50%" >](https://github.com/Git-Codder)    -->
-<a href='https://www.linkedin.com/in/aditya-kumawat-48152a206/'>
+<!--  <a href='https://www.linkedin.com/in/aditya-kumawat-48152a206/'>
   <img src='https://github.com/Git-Codder/Git-Codder/blob/main/github_linkdin.png' alt='linkedin' height='30' style="border-radius: 80;">
-</a>
+</a>  -->
 
 <!-- <a href="https://github.com/Git-Codder/Git-Codder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Codder&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
