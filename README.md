@@ -6,49 +6,63 @@ I am passionate about solving real-world problems through technology. Constantly
 ---
 
 ## 🛠️ Skills & Tools  
-- **Languages**: Python, JavaScript, C++, [add more relevant ones]  
-- **Frameworks**: React, Node.js, [add more]  
-- **Databases**: MySQL, MongoDB, [add more]  
-- **Other Tools**: Git, Docker, AWS, [add more]  
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Node.js-green?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects  
-### [YouUp](https://github.com/Git-Codder/YouUp)  
-A [brief description of the project, e.g., "streamlined productivity tool with real-time updates."]  
-![YouUp Stats](https://github-readme-stats.vercel.app/api/pin/?username=Git-Codder&repo=YouUp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-
-### [Banks_Info](https://github.com/Git-Codder/Banks_Info)  
-A [brief description of the project, e.g., "banking information system for better financial management."]  
-![Banks_Info Stats](https://github-readme-stats.vercel.app/api/pin/?username=Git-Codder&repo=Banks_Info&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+<p align="center">
+  <a href="https://github.com/Git-Codder/YouUp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Git-Codder&repo=YouUp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="YouUp" />
+  </a>
+  <a href="https://github.com/Git-Codder/Banks_Info">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Git-Codder&repo=Banks_Info&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Banks_Info" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-<a href="https://github.com/Git-Codder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Git-Codder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aditya's GitHub Stats" />
-</a>
-<a href="https://github.com/Git-Codder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Codder&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" alt="Top Languages" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-Codder&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Codder&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Kumawat-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-kumawat-48152a206/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Git--Codder-lightgrey?style=flat-square&logo=github)](https://github.com/Git-Codder)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-kumawat-48152a206/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumawat-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Git-Codder">
+    <img src="https://img.shields.io/badge/GitHub-Git--Codder-lightgrey?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 ## 🌱 Currently Learning  
-- Advanced Web Development  
-- Cloud Computing (AWS/GCP)  
-- Open Source Contribution  
+<p align="center">
+  - Advanced Web Development  
+  - Cloud Computing (AWS/GCP)  
+  - Open Source Contribution  
+</p>
 
 ---
 
 ## 🧩 Fun Fact  
-When I'm not coding, you’ll find me exploring business models, brainstorming startup ideas, or diving into the world of books and podcasts.
+<p align="center">
+  When I'm not coding, you’ll find me exploring business models, brainstorming startup ideas, or diving into the world of books and podcasts.
+</p>
 
 ---
 
